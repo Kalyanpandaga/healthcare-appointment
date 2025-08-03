@@ -105,7 +105,7 @@ VITE_API_BASE_URL=<your backend domain url + "/api"">
 ### 1. Clone the repo:
 
 ```bash
-git clone [https://github.com/your-username/healthcare-appointment.git](https://github.com/Kalyanpandaga/healthcare-appointment)
+git clone https://github.com/Kalyanpandaga/healthcare-appointment.git
 cd healthcare-appointment
 ```
 
